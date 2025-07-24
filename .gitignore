@@ -179,3 +179,7 @@ results/*
 
 *.pkl
 homeworks/hw4/data/RAW_recipes.csv
+
+.cursorindexingignore
+.specstory/
+annotation/traces/
